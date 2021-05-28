@@ -12,6 +12,7 @@ As the name suggests, a program that plays music, built 100% from Python! This i
 * Song Progress Bar
 * Next Song/Skip Song
 * Autoplay
+* Create Logo/Branding
 * Probably Some other things...
 
 ## Known Issues
